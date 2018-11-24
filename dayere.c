@@ -31,7 +31,7 @@ int main()
 	
 
 	if(m==n)
-	printf("Tangentt");
+	printf("Tangent");
 	
 return 0;
 	
